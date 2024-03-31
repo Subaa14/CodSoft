@@ -122,12 +122,12 @@
     grid-template-columns: 1fr 1fr;
 }
 .left-img-content{
-    background: url("./images/img2.jpg");
+    background: url("CodSoft\JobPortal\img\img2.jpg");
     background-size: cover;
     max-width:100%;
 }
 .right-img-content{
-    background: url("./images/img16.jpg");
+    background: url("CodSoft\JobPortal\img\img16.jpg");
     background-size: cover;
     max-width:100%;
 }
